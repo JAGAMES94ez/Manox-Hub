@@ -1,7 +1,7 @@
 if game.PlaceId == 4924922222 then
-    loadstring(game:HttpGet("https://github.com/EzJAGAMES94/Manox-Hub-Script/blob/main/Brookhaven"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/EzJAGAMES94/Manox-Hub-Script/main/Brookhaven"))()
 elseif game.PlaceId == 72845937010155 then
-    loadstring(game:HttpGet("https://github.com/EzJAGAMES94/Manox-Hub-Script/blob/main/GearTower.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/EzJAGAMES94/Manox-Hub-Script/main/GearTower.lua"))()
 else
-    loadstring(game:HttpGet("https://github.com/EzJAGAMES94/Manox-Hub-Script/blob/main/Universal.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/EzJAGAMES94/Manox-Hub-Script/main/Universal.lua"))()
 end
